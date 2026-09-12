@@ -3,7 +3,8 @@
 A full-stack task management app: Java Spring Boot REST API + MySQL (or H2 for
 zero-setup local dev) on the backend, React on the frontend.
 
-##Screenshot!(Screenshot.png)
+## Screenshot!
+[Task Manager Screenshot](Screenshot.png)
 
 ## Features
 
