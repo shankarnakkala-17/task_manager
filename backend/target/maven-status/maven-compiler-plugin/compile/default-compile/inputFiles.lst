@@ -1,0 +1,10 @@
+C:\project\task_manager\backend\src\main\java\com\taskmanager\controller\TaskController.java
+C:\project\task_manager\backend\src\main\java\com\taskmanager\dto\TaskRequest.java
+C:\project\task_manager\backend\src\main\java\com\taskmanager\dto\TaskResponse.java
+C:\project\task_manager\backend\src\main\java\com\taskmanager\exception\GlobalExceptionHandler.java
+C:\project\task_manager\backend\src\main\java\com\taskmanager\exception\TaskNotFoundException.java
+C:\project\task_manager\backend\src\main\java\com\taskmanager\model\Priority.java
+C:\project\task_manager\backend\src\main\java\com\taskmanager\model\Task.java
+C:\project\task_manager\backend\src\main\java\com\taskmanager\repository\TaskRepository.java
+C:\project\task_manager\backend\src\main\java\com\taskmanager\service\TaskService.java
+C:\project\task_manager\backend\src\main\java\com\taskmanager\TaskManagerApplication.java
